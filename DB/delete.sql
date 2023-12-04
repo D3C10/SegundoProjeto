@@ -1,0 +1,1 @@
+-- Script SQL de Exclusão (Delete).
